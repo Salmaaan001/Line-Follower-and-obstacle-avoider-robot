@@ -2,7 +2,7 @@
  * GccApplication20.c
  *
  * Created: 1/18/2024 11:13:37 AM
- * Author : Izza Nadeem
+ * Author : Dell
  */ 
 
 #include <SPI.h>
